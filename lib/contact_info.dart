@@ -8,6 +8,7 @@ class ContactInfo extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Color(0xffdde7ec),
       appBar: AppBar(
          centerTitle: true,
         elevation: 0,
